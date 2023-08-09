@@ -1,4 +1,4 @@
 # input your data for showing on plot
-days=[d1,d2,d3,d4,d5,d6,d7]
-hours=[6,7,6,6,7,6,5]
+days=[d1,d2,d3,d4,d5,d6,d7,d8]
+hours=[6,7,6,6,7,6,4.5,6]
 # new idea !! connect the git api to app
