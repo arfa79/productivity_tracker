@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 #file = open("note.txt",)
 # new idea !! connect the git api to app
-hours=[6,7,6,6,7,6,4.5,6,7,5,2,2,6,6]
+hours=[6,7,6,6,7,6,4.5,6,7,5,2,2,6,6,2,8]
 
-days=[1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+days=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
 
 plt.plot(days ,hours)
 
